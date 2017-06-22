@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addLibraryMember()
+comment1.params=
+comment1.target=void\ displayLibraryMembers()
+comment2.params=
+comment2.target=long\ generateEnrollID()
+comment3.params=MemID
+comment3.target=boolean\ memberExists(java.lang.String)
+comment4.params=MemID
+comment4.target=java.lang.String\ getMemberName(java.lang.String)
+comment5.params=MemID
+comment5.target=java.lang.String\ getMemberType(java.lang.String)
+comment6.params=MemID
+comment6.target=java.lang.String\ getClassOrDesig(java.lang.String)
+comment7.params=MemID
+comment7.target=java.lang.String\ getRollNoOrDept(java.lang.String)
+comment8.params=
+comment8.target=void\ deleteLibraryMember()
+numComments=9
